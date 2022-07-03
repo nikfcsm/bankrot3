@@ -264,6 +264,7 @@ h1 {
 }
 
 .video__reviews h2 {
+    padding-bottom: 30px;
     font-weight: 700;
     font-size: 30px;
     line-height: 40px;
@@ -555,6 +556,7 @@ footer {
 
 .footer__wrapper p {
     position: relative;
+    padding-bottom: 10px;
 }
 
 .footer__wrapper p::before {
